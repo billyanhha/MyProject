@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "frontend": "^1.0.3"
+  }
+}
